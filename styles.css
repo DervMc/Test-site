@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+}
+
+p {
+  margin: 0;
+  display: inline;
+  padding: 50px;
+}
+
+div {
+  text-align: right;
+}
+
+.header {
+  background-color: rgb(238, 238, 238);
+  padding: 20px;
+}
+
+a {
+  padding: 20px;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 4%;
+  height: auto;
+}
